@@ -2,7 +2,7 @@
 
 - ⚡ Welcome to my GitHub page. 
 
-- 🌱 I'm Kutay, a 22 years old fresh graduate from Industrial Engineering from Dokuz Eylül University. I'm a junior Game Developer Mainly focused on Unity and C#. I'm currently living in Samsun, Turkey but i'm open for work from all around the world and relocation isn't a problem for me.
+- 🌱 I'm Kutay, a 22 years old fresh graduate from Industrial Engineering from Dokuz Eylül University. I'm a junior Front-end Developer Mainly focused on React. I'm currently living in Samsun, Turkey but i'm open for work from all around the world and relocation isn't a problem for me.
 
 - 💬 You can find me on my [LinkedIn](https://www.linkedin.com/in/kutaysahin/) page.
 
