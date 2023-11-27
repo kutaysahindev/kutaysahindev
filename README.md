@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer & Industrial Engineer</h3>
 
 
-I'm Kutay, a 23-year-old graduate in Industrial Engineering from Dokuz Eylül University. I'm a junior Front-end Developer primarily focused on React.js. I am self-motivated and hardworking. Currently, I'm a participant in the CTRL+ program at Koç. I am currently living in Samsun, Turkey, but I am open to opportunities worldwide, and relocation is not a problem for me.
+I'm Kutay, a 23-year-old graduate in Industrial Engineering from Dokuz Eylül University. I'm a junior Front-end Developer primarily focused on React.js. I am self-motivated and hardworking. Currently, I'm working at Arçelik Global as a Software Engineering Intern. I'm currently living in Samsun, Turkey, but I am open to opportunities worldwide, and relocation is not a problem for me.
 
 
 - 🌱 I’m currently learning **React**
