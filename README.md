@@ -4,10 +4,7 @@
 
 I'm Kutay, a 23-year-old graduate in Industrial Engineering from Dokuz Eylül University. I'm a junior Front-end Developer primarily focused on React.js. I am self-motivated and hardworking. Currently, I'm working at Arçelik Global as a Software Engineering Intern. I'm currently living in Samsun, Turkey, but I am open to opportunities worldwide, and relocation is not a problem for me.
 
-
-- 🌱 I’m currently learning **React**
-
-- 🔭 I'm currently enrolled in the **CTRL+ Program at Koç**.
+- 🔭 I'm currently working as an **Intern Software Engineer at Arçelik Global**.
 
 - 📫 You can find me on my [LinkedIn](https://www.linkedin.com/in/kutaysahin/) page.
 
