@@ -1,30 +1,101 @@
-<h1 align="center">Hi Stranger👋, I'm Kutay Şahin</h1>
-<h3 align="center">Front-end Developer & Industrial Engineer</h3>
+<h1 align="center">Hi Stranger, I'm Kutay</h1>
+<h3 align="center">Web Developer</h3>
+<img width="1834" alt="header" src="https://github.com/kutaysahindev/kutaysahindev/assets/79334889/b275f3c4-0af3-4712-96dd-1fdeadd8b5a1">
 
+<p>👋 Hey there! I'm Kutay Şahin, a <b>passionate web developer</b> with a knack for crafting captivating digital experiences. Graduated with a degree in <b>Industrial Engineering</b> from Dokuz Eylül University, I've found my true calling in <b>coding</b> and <b>Front-End Development</b>. 💻</p>
 
-I'm Kutay, a 23-year-old graduate in Industrial Engineering from Dokuz Eylül University. I'm a junior Front-end Developer primarily focused on React.js. I am self-motivated and hardworking. Currently, I'm working at Arçelik Global as a Software Engineering Intern. I'm currently living in Samsun, Turkey, but I am open to opportunities worldwide, and relocation is not a problem for me.
+<p>🚀 I thrive on challenges and constantly seek to push the boundaries of what's possible. Specializing in <b>React.js</b> and adept at harnessing the power of <b>Tailwind CSS</b>, I bring ideas to life with creativity and precision. My projects not only boast stunning visuals but also reflect a deep commitment to <b>purposeful design</b>.</p>
 
-- 🔭 I'm currently working as an **Intern Software Engineer at Arçelik Global**.
+<p>📈 Currently honing my skills as an <b>Intern Software Engineer</b> at Arçelik Global, I'm on a journey to refine my craft and make a meaningful impact in the tech world. While I call <b>Samsun, Turkey</b>, home for now, I'm eagerly open to exciting opportunities worldwide, with relocation possibilities.</p>
 
-- 📫 You can find me on my [LinkedIn](https://www.linkedin.com/in/kutaysahin/) page.
+<p>📫 Let's connect and build something extraordinary together! You can find me on <a href="https://www.linkedin.com/in/kutaysahin/">LinkedIn</a>. 🔗</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kutaysahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kutaysahin" height="30" width="40" /></a>
+<h3 align="center">Reach out to me:</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/kutaysahin" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+<h3 align="center">Skills</h3>
+
+<table align="center">
+  <tr>
+    <th width="300px">Programming Languages</th>
+    <th width="300px">Front-End Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="40" />
+      </picture>
+      <picture title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="40" />
+      </picture>
+      <picture title="C#">
+        <img src="https://skillicons.dev/icons?i=cs" width="40" />
+      </picture>
+      <picture title="Python">
+        <img src="https://skillicons.dev/icons?i=python" width="40" />
+      </picture>
+      <picture title="Matlab">
+        <img src="https://skillicons.dev/icons?i=matlab" width="40" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture title="React">
+        <img src="https://skillicons.dev/icons?i=react" width="40" />
+      </picture>
+      <picture title="HTML">
+        <img src="https://skillicons.dev/icons?i=html" width="40" />
+      </picture>
+      <picture title="Redux">
+        <img src="https://skillicons.dev/icons?i=redux" width="40" />
+      </picture>
+      <picture title="GIT">
+        <img src="https://skillicons.dev/icons?i=git" width="40" />
+      </picture>
+      <picture title="Vite">
+        <img src="https://skillicons.dev/icons?i=vite" width="40" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
+    <th width="300px">Design Tools</th>
+    <th width="300px">Styling Technologies</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture title="Figma">
+        <img src="https://skillicons.dev/icons?i=figma" width="40" />
+      </picture>
+      <picture title="Adobe Illustrator">
+        <img src="https://skillicons.dev/icons?i=ai" width="40" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture title="CSS">
+        <img src="https://skillicons.dev/icons?i=css" width="40" />
+      </picture>
+      <picture title="Tailwind CSS">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" />
+      </picture>
+      <picture title="Bootstrap">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+      </picture>
+      <picture title="SASS">
+        <img src="https://skillicons.dev/icons?i=sass" width="40" />
+      </picture>
+      <picture title="MaterialUI">
+        <img src="https://skillicons.dev/icons?i=materialui" width="40" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kutaysahindev&color=lightgrey" />
+</p>
