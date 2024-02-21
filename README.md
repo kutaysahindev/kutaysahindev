@@ -55,8 +55,8 @@
       <picture title="GIT">
         <img src="https://skillicons.dev/icons?i=git" width="40" />
       </picture>
-      <picture title="Vite">
-        <img src="https://skillicons.dev/icons?i=vite" width="40" />
+      <picture title="Nextjs">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
       </picture>
     </td>
   </tr>
@@ -91,6 +91,24 @@
       </picture>
       <picture title="MaterialUI">
         <img src="https://skillicons.dev/icons?i=materialui" width="40" />
+      </picture>
+    </td>
+  </tr>
+</table>
+<table align="center">
+  <tr>
+    <th width="300px">Back-End Technologies</th>
+    <th width="300px">Cloud Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <picture title="Node.js">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
+      </picture>
+    </td>
+    <td align="center">
+      <picture title="Heroku">
+        <img src="https://skillicons.dev/icons?i=heroku" width="40" />
       </picture>
     </td>
   </tr>
