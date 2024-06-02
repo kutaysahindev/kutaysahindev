@@ -105,6 +105,9 @@
       <picture title="Node.js">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" />
       </picture>
+      <picture title="Mysql">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40" />
+      </picture>
     </td>
     <td align="center">
       <picture title="Heroku">
