@@ -6,7 +6,7 @@
 
 <p>🚀 I thrive on challenges and constantly seek to push the boundaries of what's possible. Specializing in <b>React.js</b> and adept at harnessing the power of <b>Tailwind CSS</b>, I bring ideas to life with creativity and precision. My projects not only boast stunning visuals but also reflect a deep commitment to <b>purposeful design</b>.</p>
 
-<p>📈 Currently honing my skills as a <b>Software Engineer</b>, I'm on a journey to refine my craft and make a meaningful impact in the tech world. While I call <b>Samsun, Turkey</b>, home for now, I'm eagerly open to exciting opportunities worldwide, with relocation possibilities.</p>
+<p>📈 Currently honing my skills as a <b>Front-end Developer</b> at <b>Holly Palm</b>, I'm on a journey to refine my craft and make a meaningful impact in the tech world. While I call <b>Samsun, Turkey</b>, home for now, I'm eagerly open to exciting opportunities worldwide, with relocation possibilities.</p>
 
 <p>📫 Let's connect and build something extraordinary together! You can find me on <a href="https://www.linkedin.com/in/kutaysahin/">LinkedIn</a>. 🔗</p>
 
